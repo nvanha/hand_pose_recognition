@@ -75,7 +75,7 @@ function App() {
             <div class="dot"></div>
           </div>
         </div>
-        <a href="#contact" class="button-link alternative">
+        <a href="https://nvanha.github.io/myweb/" class="button-link alternative">
           Contact me
         </a>
         <div className="details-wrapper">
