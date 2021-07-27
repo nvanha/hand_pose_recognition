@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hand_pose_recognition/static/css/main.53df5894.chunk.css",
-    "main.js": "/hand_pose_recognition/static/js/main.4c51961b.chunk.js",
-    "main.js.map": "/hand_pose_recognition/static/js/main.4c51961b.chunk.js.map",
+    "main.js": "/hand_pose_recognition/static/js/main.4787a005.chunk.js",
+    "main.js.map": "/hand_pose_recognition/static/js/main.4787a005.chunk.js.map",
     "runtime-main.js": "/hand_pose_recognition/static/js/runtime-main.e020fbc1.js",
     "runtime-main.js.map": "/hand_pose_recognition/static/js/runtime-main.e020fbc1.js.map",
     "static/js/2.d447549a.chunk.js": "/hand_pose_recognition/static/js/2.d447549a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e020fbc1.js",
     "static/js/2.d447549a.chunk.js",
     "static/css/main.53df5894.chunk.css",
-    "static/js/main.4c51961b.chunk.js"
+    "static/js/main.4787a005.chunk.js"
   ]
 }
